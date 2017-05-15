@@ -7,13 +7,13 @@ int moltiplication();
 int division();
 
 int main() {
-
+	cout <<"CALCULATOR"<<endl;
 
     return 0;
 }
 
 int moltiplication(int res){
-	int a,int b;
+	int a, b;
 	cout << "First Number ";
 	cin >>a;
 	cout << "Second Number ";

@@ -11,4 +11,6 @@ int main() {
     return 0;
 }
 
- 
+int moltiplication(int res){
+	int a,int b;
+}

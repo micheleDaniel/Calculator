@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 int addition();
 int sottraction();
@@ -13,4 +14,10 @@ int main() {
 
 int moltiplication(int res){
 	int a,int b;
+	cout << "First Number ";
+	cin >>a;
+	cout << "Second Number ";
+	cin >>b;
+	res = a*b;
+	return res;
 }

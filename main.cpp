@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 void addition();
 void subtraction();
